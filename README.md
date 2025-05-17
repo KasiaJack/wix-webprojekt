@@ -13,7 +13,7 @@ die Eltern bei der Suche nach Unterstützung leicht finden und nutzen können.
 
 ## Technologien
 
-- [Wix.com](https://wix.com) (Erstellung der Originalseite)
+- [Wix.com](https://katarzynajackowska2.wixsite.com/my-site-2)(Erstellung der Originalseite)
 - GitHub Pages (Veröffentlichung des Links)
 
 ## Autorin
